@@ -46,3 +46,13 @@ page), `registration`, `reg_url`, `join_info`, `open_to`, `notes` and `access`.
 Open an issue with the series' own page (its schedule, not a news story about it), or a pull
 request. Pull requests are copied by hand into the calendar's source, so a change here shows up
 after the next refresh. A series belongs here if anyone can attend it online for free.
+
+## Licence
+
+This data is © EconGoat, licensed under
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+(the full text is in `LICENSE`). You may copy, share and adapt it for non-commercial purposes,
+if you credit EconGoat, link to this repository and the licence, say whether you changed it, and
+share what you make from it under the same licence.
+
+Talk titles are their speakers' own; dates, times and links are as the organizers publish them.
