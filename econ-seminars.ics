@@ -1311,6 +1311,25 @@ URL:https://u-tokyo-ac-jp.zoom.us/meeting/register/LUQiPbLNRUKPeJv4KVNEng
 CATEGORIES:Applied Micro
 END:VEVENT
 BEGIN:VEVENT
+UID:c55e43f6d2@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T133000Z
+DTEND:20261123T143000Z
+SUMMARY:SUERF e-lectures: John Fell – Key takeaways from the ECB Novemb
+ er 2026 Financial Stability Review
+DESCRIPTION:SUERF BAFFI Bocconi e-lectures (Macro & Monetary)\nSpeaker: J
+ ohn Fell\, European Central Bank\nTitle: Key takeaways from the ECB Novem
+ ber 2026 Financial Stability Review\nAccess: Register first\nHow to join:
+  Register on each event's SUERF registration page (non-member option avai
+ lable).\nRegister / join: https://www.suerf.org/events/key-takeaways-from
+ -the-ecb-november-2026-financial-stability-review/\nSeries page: https://
+ www.suerf.org/events/
+LOCATION:Online
+URL:https://www.suerf.org/events/key-takeaways-from-the-ecb-november-2026
+ -financial-stability-review/
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:adc6cbaf28@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261123T150000Z
@@ -1331,6 +1350,26 @@ URL:https://www.sciencespo.fr/department-economics/research/seminars/econ
 CATEGORIES:Econometrics & Methods
 END:VEVENT
 BEGIN:VEVENT
+UID:888d0680b5@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T161500Z
+DTEND:20261123T173000Z
+SUMMARY:Decarbonization Seminar: James Bushnell – Border Carbon Adjustm
+ ents and Reshuffling: An Analysis of California's Electricity Sector
+DESCRIPTION:MISES-ZEW Decarbonization Seminar (Environment & Energy)\nSpe
+ aker: James Bushnell\, University of California\, Davis\nTitle: Border Ca
+ rbon Adjustments and Reshuffling: An Analysis of California's Electricity
+  Sector\nAccess: Mailing list\nHow to join: Sign up for the seminar maili
+ ng list\; each talk announcement carries the link to register for virtual
+  attendance.\nRegister / join: https://www.uni-mannheim.de/en/mises/resea
+ rch/decarbonization-seminar/james-bushnell/\nSeries page: https://www.uni
+ -mannheim.de/en/mises/research/decarbonization-seminar/
+LOCATION:Online
+URL:https://www.uni-mannheim.de/en/mises/research/decarbonization-seminar
+ /james-bushnell/
+CATEGORIES:Environment & Energy
+END:VEVENT
+BEGIN:VEVENT
 UID:b520dc0ba3@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261123T163000Z
@@ -1347,6 +1386,26 @@ LOCATION:Online
 URL:https://us06web.zoom.us/webinar/register/WN_N28q8jePSpC9QjO5EtGdIA#/r
  egistration
 CATEGORIES:Urban & Regional
+END:VEVENT
+BEGIN:VEVENT
+UID:40c8b630f9@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T103000Z
+DTEND:20261124T113000Z
+SUMMARY:Banque de France Seminars: Hans Degryse\, Olivier De Jonghe\, Luc
+  Laeven\, Tong Zhao – Collateral and Credit (BdF/TSE webinar)
+DESCRIPTION:Banque de France Research Seminars (incl. BdF/TSE webinars) (
+ Macro & Monetary)\nSpeaker: Hans Degryse\, Olivier De Jonghe\, Luc Laeven
+ \, Tong Zhao\, KU Leuven\nTitle: Collateral and Credit (BdF/TSE webinar)\
+ nAccess: Register first\nHow to join: Fill in the Banque de France resear
+ ch-webinar registration form (closes 24 h before) to get an invitation to
+  the web platform.\nRegister / join: https://www.banque-france.fr/en/even
+ ts/collateral-and-credit\nSeries page: https://www.banque-france.fr/en/pu
+ blications-and-research/economic-research/conferences-and-research-semina
+ rs
+LOCATION:Online
+URL:https://www.banque-france.fr/en/events/collateral-and-credit
+CATEGORIES:Macro & Monetary
 END:VEVENT
 BEGIN:VEVENT
 UID:5934e1ce38@seminars.econgoat.gg
@@ -1489,6 +1548,27 @@ URL:https://teams.microsoft.com/meet/380565384146710?p=JPqF6P5d9MymJXOtb1
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:1829a8b6b4@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261125T130000Z
+DTEND:20261125T143000Z
+SUMMARY:Banque de France Seminars: Jean-Stéphane Mésonnier – Making S
+ RI Visible: Label Salience\, Fund Supply and ESG Quality
+DESCRIPTION:Banque de France Research Seminars (incl. BdF/TSE webinars) (
+ Macro & Monetary)\nSpeaker: Jean-Stéphane Mésonnier\, Banque de France\
+ nTitle: Making SRI Visible: Label Salience\, Fund Supply and ESG Quality\
+ nAccess: Register first\nHow to join: Fill in the Banque de France resear
+ ch-webinar registration form (closes 24 h before) to get an invitation to
+  the web platform.\nRegister / join: https://www.banque-france.fr/en/even
+ ts/making-sri-visible-label-salience-fund-supply-and-esg-quality\nSeries 
+ page: https://www.banque-france.fr/en/publications-and-research/economic-
+ research/conferences-and-research-seminars
+LOCATION:Online
+URL:https://www.banque-france.fr/en/events/making-sri-visible-label-salie
+ nce-fund-supply-and-esg-quality
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:89327dc5a3@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261125T140000Z
@@ -1521,6 +1601,58 @@ DESCRIPTION:LSE Public Events (LSE Live) (General)\nSpeaker: Richard Blun
 LOCATION:Online
 URL:https://www.lse.ac.uk/events/consequences-inequality
 CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:66c2982ed3@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261126T060000Z
+DTEND:20261126T070000Z
+SUMMARY:ADB Asian Impact: Takaaki Masaki\, Elaine Tan\, Susan Lim\, Paulo
+  Manunta\, Puna Kamoe – Scaling Earth Observation for Agricultural Stat
+ istics: Lessons from Asia and the Pacific
+DESCRIPTION:Asian Impact Webinar Series (Development)\nSpeaker: Takaaki M
+ asaki\, Elaine Tan\, Susan Lim\, Paulo Manunta\, Puna Kamoe\, ADB\; Cook 
+ Islands Ministry of Agriculture\nTitle: Scaling Earth Observation for Agr
+ icultural Statistics: Lessons from Asia and the Pacific\nAccess: Register
+  first\nHow to join: Click 'Register Now' on each event page for Zoom web
+ inar registration.\nRegister / join: https://adb-org.zoom.us/webinar/regi
+ ster/WN_jtRx7rFBS167XRH0Fg9R8A\nSeries page: https://www.adb.org/news/eve
+ nts/webinar/asian-impact
+LOCATION:Online
+URL:https://adb-org.zoom.us/webinar/register/WN_jtRx7rFBS167XRH0Fg9R8A
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1cbf2b40@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261126T111500Z
+DTEND:20261126T121500Z
+SUMMARY:DNB Seminars: Evi Pappa – Pricing Dynamics Under Financial Stre
+ ss
+DESCRIPTION:De Nederlandsche Bank Research Seminars (Macro & Monetary)\nS
+ peaker: Evi Pappa\, UC3M\nTitle: Pricing Dynamics Under Financial Stress\
+ nAccess: Email organizers\nHow to join: Email from your affiliated (insti
+ tutional) email address to receive access (addresses on the series page)\
+ nRegister / join: https://www.dnb.nl/en/research/research-seminars\nSerie
+ s page: https://www.dnb.nl/en/research/research-seminars
+LOCATION:Online
+URL:https://www.dnb.nl/en/research/research-seminars
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:91a6fee404@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261126T120000Z
+DTEND:20261126T130000Z
+SUMMARY:ESCoE Webinars: Martin Weale – Smoking and GDP
+DESCRIPTION:ESCoE Webinar Series (Econometrics & Methods)\nSpeaker: Marti
+ n Weale\, ESCoE and King's College London\nTitle: Smoking and GDP\nAccess
+ : Register first\nHow to join: Register via the Teams event link on each 
+ webinar page\nRegister / join: https://www.escoe.ac.uk/events/smoking-and
+ -gdp/\nSeries page: https://www.escoe.ac.uk/events/
+LOCATION:Online
+URL:https://www.escoe.ac.uk/events/smoking-and-gdp/
+CATEGORIES:Econometrics & Methods
 END:VEVENT
 BEGIN:VEVENT
 UID:d7adce007c@seminars.econgoat.gg
@@ -1590,6 +1722,81 @@ URL:https://sites.google.com/view/kubs-vfs
 CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
+UID:9fd0062d42@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261127T110000Z
+DTEND:20261127T120000Z
+SUMMARY:Tax Observatory Lunch Seminar: Franziska Disslbacher
+DESCRIPTION:EU Tax Observatory Lunch Seminar (Public & Political Economy)
+ \nSpeaker: Franziska Disslbacher\, WU Vienna University of Economics and 
+ Business\nAccess: Register first\nHow to join: Register once via the Zoom
+  registration link on the seminar page\; also sign up for the mailing lis
+ t.\nRegister / join: https://taxobservatory.world/?p=18469\nSeries page: 
+ https://taxobservatory.world/?p=18469
+LOCATION:Online
+URL:https://taxobservatory.world/?p=18469
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
+UID:1de2104cbe@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261127T120000Z
+DTEND:20261127T130000Z
+SUMMARY:NIESR Webinars: Kate Barker\, Philip McCann\, Paul Swinney – Fi
+ scal Devolution: Devolve More to Grow More
+DESCRIPTION:NIESR Webinars (Macro & Monetary)\nSpeaker: Kate Barker\, Phi
+ lip McCann\, Paul Swinney\, South Yorkshire Mayoral Economic Advisory Cou
+ ncil\; Alliance Manchester Business School\; The Data City\nTitle: Fiscal
+  Devolution: Devolve More to Grow More\nAccess: Register first\nHow to jo
+ in: Book a free 'Webinar Attendance' ticket on the NIESR event page\nRegi
+ ster / join: https://niesr.ac.uk/event/fiscal-devolution-devolve-more-gro
+ w-more\nSeries page: https://niesr.ac.uk/events
+LOCATION:Online
+URL:https://niesr.ac.uk/event/fiscal-devolution-devolve-more-grow-more
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d451071e@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261130T093000Z
+DTEND:20261130T104500Z
+SUMMARY:Resolution Foundation: Justine Greening\, Sam Friedman\, Jenny Ba
+ skerville\, Julia Diniz\, Greg Thwaites – Degrees of separation
+DESCRIPTION:Resolution Foundation Events (Labor & Migration)\nSpeaker: Ju
+ stine Greening\, Sam Friedman\, Jenny Baskerville\, Julia Diniz\, Greg Th
+ waites\, Former Education Secretary\; LSE\; Bridge Group\; Resolution Fou
+ ndation\; Resolution Foundation\nTitle: Degrees of separation\nAccess: No
+  sign-up\nHow to join: Watch the livestream on the event page or YouTube\
+ ; questions via Slido\nRegister / join: https://www.resolutionfoundation.
+ org/events/degrees-of-separation/\nSeries page: https://www.resolutionfou
+ ndation.org/events/
+LOCATION:Online
+URL:https://www.resolutionfoundation.org/events/degrees-of-separation/
+CATEGORIES:Labor & Migration
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd25bd2c7@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261130T133000Z
+DTEND:20261130T144500Z
+SUMMARY:SUERF e-lectures: Erza Aruqaj\, Stefano Ungaro – Who owns what\
+ , and where? The revamped Finflows dataset for analysing global financial
+  interdependencies
+DESCRIPTION:SUERF BAFFI Bocconi e-lectures (Macro & Monetary)\nSpeaker: E
+ rza Aruqaj\, Stefano Ungaro\, European Commission (DG ECFIN\; DG JRC)\nTi
+ tle: Who owns what\, and where? The revamped Finflows dataset for analysi
+ ng global financial interdependencies\nAccess: Register first\nHow to joi
+ n: Register on each event's SUERF registration page (non-member option av
+ ailable).\nRegister / join: https://www.suerf.org/events/who-owns-what-an
+ d-where-the-revamped-finflows-dataset-for-analysing-global-financial-inte
+ rdependencies/registration\nSeries page: https://www.suerf.org/events/
+LOCATION:Online
+URL:https://www.suerf.org/events/who-owns-what-and-where-the-revamped-fin
+ flows-dataset-for-analysing-global-financial-interdependencies/registrati
+ on
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:ad555c2825@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261130T150000Z
@@ -1640,6 +1847,24 @@ URL:https://us06web.zoom.us/webinar/register/2517946645108/WN_t0Pu5ohQSG-
 CATEGORIES:Environment & Energy
 END:VEVENT
 BEGIN:VEVENT
+UID:b9cb390874@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261130T161500Z
+DTEND:20261130T173000Z
+SUMMARY:Decarbonization Seminar: Valerie J. Karplus
+DESCRIPTION:MISES-ZEW Decarbonization Seminar (Environment & Energy)\nSpe
+ aker: Valerie J. Karplus\, Carnegie Mellon University\nAccess: Mailing li
+ st\nHow to join: Sign up for the seminar mailing list\; each talk announc
+ ement carries the link to register for virtual attendance.\nRegister / jo
+ in: https://www.uni-mannheim.de/en/mises/research/decarbonization-seminar
+ /valerie-j-karplus/\nSeries page: https://www.uni-mannheim.de/en/mises/re
+ search/decarbonization-seminar/
+LOCATION:Online
+URL:https://www.uni-mannheim.de/en/mises/research/decarbonization-seminar
+ /valerie-j-karplus/
+CATEGORIES:Environment & Energy
+END:VEVENT
+BEGIN:VEVENT
 UID:b61e1d95cf@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261130T170000Z
@@ -1679,6 +1904,49 @@ URL:http://mediacentrallive.princeton.edu/
 CATEGORIES:Environment & Energy
 END:VEVENT
 BEGIN:VEVENT
+UID:46b317b17b@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T103000Z
+DTEND:20261201T113000Z
+SUMMARY:Banque de France Seminars: Ragnar Enger Juelsrud – What Do 12 B
+ illion Card Transactions Say About House Prices and Consumption? (BdF/TSE
+  webinar)
+DESCRIPTION:Banque de France Research Seminars (incl. BdF/TSE webinars) (
+ Macro & Monetary)\nSpeaker: Ragnar Enger Juelsrud\, Norges Bank\nTitle: W
+ hat Do 12 Billion Card Transactions Say About House Prices and Consumptio
+ n? (BdF/TSE webinar)\nAccess: Register first\nHow to join: Fill in the Ba
+ nque de France research-webinar registration form (closes 24 h before) to
+  get an invitation to the web platform.\nRegister / join: https://www.ban
+ que-france.fr/en/events/what-do-12-billion-card-transactions-say-about-ho
+ use-prices-and-consumption\nSeries page: https://www.banque-france.fr/en/
+ publications-and-research/economic-research/conferences-and-research-semi
+ nars
+LOCATION:Online
+URL:https://www.banque-france.fr/en/events/what-do-12-billion-card-transa
+ ctions-say-about-house-prices-and-consumption
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:96f9a3ded8@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T103000Z
+DTEND:20261201T113000Z
+SUMMARY:IGC ISGH Webinars: Megha Patnaik – How Firms Pay for Energy Aba
+ tement: Evidence from India's Tradable Intensity Standard
+DESCRIPTION:India Sustainable Growth Hub (ISGH) Webinar Series (Environme
+ nt & Energy)\nSpeaker: Megha Patnaik\, LUISS and CEPR\nTitle: How Firms P
+ ay for Energy Abatement: Evidence from India's Tradable Intensity Standar
+ d\nAccess: See event page\nHow to join: See the IGC series page for each 
+ session\; no join link is posted there\nRegister / join: https://www.thei
+ gc.org/events/2026/india-sustainable-growth-hub-isgh-webinar-series\nSeri
+ es page: https://www.theigc.org/events/2026/india-sustainable-growth-hub-
+ isgh-webinar-series
+LOCATION:Online
+URL:https://www.theigc.org/events/2026/india-sustainable-growth-hub-isgh-
+ webinar-series
+CATEGORIES:Environment & Energy
+END:VEVENT
+BEGIN:VEVENT
 UID:0f09185fa9@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261201T120000Z
@@ -1713,6 +1981,61 @@ URL:https://leibniz-ios.de/wissen-vermitteln/veranstaltungen/seminarreihe
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:90475d1cf5@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T130000Z
+DTEND:20261201T143000Z
+SUMMARY:Banque de France Seminars: Tommaso Gasparini – Anatomy of Europ
+ ean Bank Exposure to the Dollar
+DESCRIPTION:Banque de France Research Seminars (incl. BdF/TSE webinars) (
+ Macro & Monetary)\nSpeaker: Tommaso Gasparini\, Banque de France\nTitle: 
+ Anatomy of European Bank Exposure to the Dollar\nAccess: Register first\n
+ How to join: Fill in the Banque de France research-webinar registration f
+ orm (closes 24 h before) to get an invitation to the web platform.\nRegis
+ ter / join: https://www.banque-france.fr/en/events/anatomy-european-bank-
+ exposure-dollar\nSeries page: https://www.banque-france.fr/en/publication
+ s-and-research/economic-research/conferences-and-research-seminars
+LOCATION:Online
+URL:https://www.banque-france.fr/en/events/anatomy-european-bank-exposure
+ -dollar
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:1b21af1d3a@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T130000Z
+DTEND:20261201T140000Z
+SUMMARY:EBRD OCE Seminar: Christoph Albert – Climate Change and the Spa
+ tial Reallocation of Capital
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Christoph Albert\, University of Turin & Collegio Carlo A
+ lberto\nTitle: Climate Change and the Spatial Reallocation of Capital\nAc
+ cess: Email organizers\nHow to join: Email the organizers for the online 
+ stream (addresses on the series page)\nRegister / join: https://sites.goo
+ gle.com/view/oceseminars/home-page\nSeries page: https://sites.google.com
+ /view/oceseminars/home-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
+UID:164c0c6588@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T140000Z
+DTEND:20261201T150000Z
+SUMMARY:DEB Seminar: Enrico Diecidue – Ambiguity and Justification in E
+ nvironmental Choices
+DESCRIPTION:Decision Experience and Behavior (DEB) Seminar (Behavioral & 
+ Experimental)\nSpeaker: Enrico Diecidue\nTitle: Ambiguity and Justificati
+ on in Environmental Choices\nAccess: Join directly\nHow to join: Direct Z
+ oom link for each talk is posted on the home page\; optional reminder sig
+ n-up form.\nRegister / join: https://us02web.zoom.us/j/83678338817\nSerie
+ s page: https://sites.google.com/view/debseminar/home
+LOCATION:Online
+URL:https://us02web.zoom.us/j/83678338817
+CATEGORIES:Behavioral & Experimental
+END:VEVENT
+BEGIN:VEVENT
 UID:74b832d13d@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261201T143000Z
@@ -1745,6 +2068,22 @@ DESCRIPTION:Virtual Development Economics Seminar (VDEV/CEPR/BREAD) (Deve
 LOCATION:Online
 URL:https://cepr-org.zoom.us/webinar/register/WN_EtJHOurhTKG2pxwKcH9C8g
 CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
+UID:7aab92298a@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T153000Z
+DTEND:20261201T163000Z
+SUMMARY:TSEE: Christoph Semken
+DESCRIPTION:Transatlantic Seminar on Environmental and Energy Economics (
+ TSEE) (Environment & Energy)\nSpeaker: Christoph Semken\, University of T
+ oronto\nAccess: Email organizers\nHow to join: Email stating your status 
+ and affiliation\; the Zoom link is sent weekly (addresses on the series p
+ age)\nRegister / join: https://sites.google.com/view/tsee-online\nSeries 
+ page: https://sites.google.com/view/tsee-online
+LOCATION:Online
+URL:https://sites.google.com/view/tsee-online
+CATEGORIES:Environment & Energy
 END:VEVENT
 BEGIN:VEVENT
 UID:f14bdb0ecf@seminars.econgoat.gg
@@ -1782,6 +2121,44 @@ LOCATION:Online
 URL:https://stanford.zoom.us/j/96883717451?pwd=3H5mAt7UaKDSYyctbmcbPtfFNe
  1zff.1
 CATEGORIES:Econometrics & Methods
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae1d02853@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261201T170000Z
+DTEND:20261201T180000Z
+SUMMARY:Growth Lab Dev Talks: Ricardo Hausmann\, Eric Protzer – Canada 
+ After America: A Strategy for Prosperity in a Changed World
+DESCRIPTION:Harvard Growth Lab Development Talks (Development)\nSpeaker: 
+ Ricardo Hausmann\, Eric Protzer\, Harvard Growth Lab\nTitle: Canada After
+  America: A Strategy for Prosperity in a Changed World\nAccess: Register 
+ first\nHow to join: Register in advance via the link on each event page\;
+  the Zoom session is open to the public.\nRegister / join: https://growth
+ lab.hks.harvard.edu/event/canada-after-america-a-strategy-for-prosperity-
+ in-a-changed-world/\nSeries page: https://growthlab.hks.harvard.edu/event
+ s/category/development-talks/
+LOCATION:Online
+URL:https://growthlab.hks.harvard.edu/event/canada-after-america-a-strate
+ gy-for-prosperity-in-a-changed-world/
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
+UID:6064ff3a25@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:PEN Webinar: Anna Maria Halewska – Does political violence pay 
+ off? Media attention and political backlashes (time TBA)
+DESCRIPTION:Political Economy Network (PEN) Webinar Series (Public & Poli
+ tical Economy)\nSpeaker: Anna Maria Halewska\, University of Lausanne\nTi
+ tle: Does political violence pay off? Media attention and political backl
+ ashes\nAccess: Email organizers\nHow to join: Email either organizer to a
+ ttend\; contacts are on their personal sites.\nRegister / join: https://s
+ ites.google.com/view/ktheocharopoulos/workshops\nSeries page: https://sit
+ es.google.com/view/ktheocharopoulos/workshops
+LOCATION:Online
+URL:https://sites.google.com/view/ktheocharopoulos/workshops
+CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
 UID:b2218abc10@seminars.econgoat.gg
@@ -1834,6 +2211,25 @@ URL:https://cepr-org.zoom.us/webinar/register/WN_DlhUutp0S7GhwrWsY0NVPQ
 CATEGORIES:Economic History
 END:VEVENT
 BEGIN:VEVENT
+UID:0a9810c32f@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261202T160000Z
+DTEND:20261202T170000Z
+SUMMARY:Economics of Aging: Rebecca Vallas – Social Security at a Cross
+ roads: What's at Stake - and What's Possible - After the Midterms
+DESCRIPTION:Reimagining the Economics of Aging Seminar Series (Public & P
+ olitical Economy)\nSpeaker: Rebecca Vallas\, National Academy of Social I
+ nsurance\nTitle: Social Security at a Crossroads: What's at Stake - and W
+ hat's Possible - After the Midterms\nAccess: Register first\nHow to join:
+  Register for each session to receive the Zoom link.\nRegister / join: ht
+ tps://event.newschool.edu/socialsecurityatacrossroads\nSeries page: https
+ ://www.economicpolicyresearch.org/upcoming-events/seminar-series-reimagin
+ ing-the-economics-of-aging
+LOCATION:Online
+URL:https://event.newschool.edu/socialsecurityatacrossroads
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
 UID:6b18eb1d05@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261202T160000Z
@@ -1866,6 +2262,39 @@ LOCATION:Online
 URL:https://www.kielinstitut.de/events/seminars-workshops/kiel-cepr-resea
  rch-seminar/registration-event-series/
 CATEGORIES:International & Trade
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed613cc5d@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261203T111500Z
+DTEND:20261203T121500Z
+SUMMARY:DNB Seminars: Jean-Paul Renne
+DESCRIPTION:De Nederlandsche Bank Research Seminars (Macro & Monetary)\nS
+ peaker: Jean-Paul Renne\, HEC Lausanne\nAccess: Email organizers\nHow to 
+ join: Email from your affiliated (institutional) email address to receive
+  access (addresses on the series page)\nRegister / join: https://www.dnb.
+ nl/en/research/research-seminars\nSeries page: https://www.dnb.nl/en/rese
+ arch/research-seminars
+LOCATION:Online
+URL:https://www.dnb.nl/en/research/research-seminars
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:184f01a3e8@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261203T130000Z
+DTEND:20261203T140000Z
+SUMMARY:GLO Virtual Seminar: Julie Hotchkiss – What's Behind Declining 
+ Birth Rates in the U.S.?
+DESCRIPTION:GLO Virtual Seminar (Labor & Migration)\nSpeaker: Julie Hotch
+ kiss\, Federal Reserve Bank of Atlanta\nTitle: What's Behind Declining Bi
+ rth Rates in the U.S.?\nAccess: Email organizers\nHow to join: Open to GL
+ O Fellows and Affiliates (anyone may apply to be an Affiliate) or by invi
+ tation\; contact GLO\nRegister / join: https://glabor.org/glo-virtual-sem
+ inar/\nSeries page: https://glabor.org/glo-virtual-seminar/
+LOCATION:Online
+URL:https://glabor.org/glo-virtual-seminar/
+CATEGORIES:Labor & Migration
 END:VEVENT
 BEGIN:VEVENT
 UID:be1600f2ce@seminars.econgoat.gg
@@ -2123,6 +2552,24 @@ URL:https://groups.google.com/g/social-choice-and-welfare-forum
 CATEGORIES:Theory & Market Design
 END:VEVENT
 BEGIN:VEVENT
+UID:a186108874@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261208T120000Z
+DTEND:20261208T130000Z
+SUMMARY:LSE Asia Econ History: Eik Leong Swee
+DESCRIPTION:LSE Asia Economic History Seminars (Economic History)\nSpeake
+ r: Eik Leong Swee\, University of Melbourne\nAccess: See event page\nHow 
+ to join: Zoom link posted on the seminar page for online or hybrid sessio
+ ns\; check before each talk.\nRegister / join: https://www.lse.ac.uk/econ
+ omic-history/seminars/2026-27/asia-economic-history-seminars\nSeries page
+ : https://www.lse.ac.uk/economic-history/seminars/2026-27/asia-economic-h
+ istory-seminars
+LOCATION:Online
+URL:https://www.lse.ac.uk/economic-history/seminars/2026-27/asia-economic
+ -history-seminars
+CATEGORIES:Economic History
+END:VEVENT
+BEGIN:VEVENT
 UID:c2711fcfcc@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261208T123000Z
@@ -2161,6 +2608,57 @@ URL:https://cepr-org.zoom.us/meeting/register/tZYqc-2gpzwuHNP6dna6CK0TULs
 CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
+UID:f27720ddcd@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261208T130000Z
+DTEND:20261208T140000Z
+SUMMARY:EBRD OCE Seminar: Martin Aragonenses
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Martin Aragonenses\, INSEAD\nAccess: Email organizers\nHo
+ w to join: Email the organizers for the online stream (addresses on the s
+ eries page)\nRegister / join: https://sites.google.com/view/oceseminars/h
+ ome-page\nSeries page: https://sites.google.com/view/oceseminars/home-pag
+ e
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b3be2810@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261208T140000Z
+DTEND:20261208T150000Z
+SUMMARY:Finance Focus: Nicolas Véron\, Jianqiao Lu – Trends in disclos
+ ures by listed companies in China
+DESCRIPTION:Bruegel Finance Focus (Finance)\nSpeaker: Nicolas Véron\, Ji
+ anqiao Lu\, Bruegel\; Shanghai University of Finance and Economics\nTitle
+ : Trends in disclosures by listed companies in China\nAccess: Register fi
+ rst\nHow to join: Register on the event page to join the livestream\nRegi
+ ster / join: https://www.bruegel.org/event/trends-disclosures-listed-comp
+ anies-china\nSeries page: https://www.bruegel.org/event-series/finance-fo
+ cus
+LOCATION:Online
+URL:https://www.bruegel.org/event/trends-disclosures-listed-companies-chi
+ na
+CATEGORIES:Finance
+END:VEVENT
+BEGIN:VEVENT
+UID:6b22d2118c@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261208T153000Z
+DTEND:20261208T163000Z
+SUMMARY:TSEE: Nicolas Astier
+DESCRIPTION:Transatlantic Seminar on Environmental and Energy Economics (
+ TSEE) (Environment & Energy)\nSpeaker: Nicolas Astier\, Paris School of E
+ conomics\nAccess: Email organizers\nHow to join: Email stating your statu
+ s and affiliation\; the Zoom link is sent weekly (addresses on the series
+  page)\nRegister / join: https://sites.google.com/view/tsee-online\nSerie
+ s page: https://sites.google.com/view/tsee-online
+LOCATION:Online
+URL:https://sites.google.com/view/tsee-online
+CATEGORIES:Environment & Energy
+END:VEVENT
+BEGIN:VEVENT
 UID:32ee658984@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261208T160000Z
@@ -2196,6 +2694,42 @@ URL:https://stanford.zoom.us/j/96883717451?pwd=3H5mAt7UaKDSYyctbmcbPtfFNe
 CATEGORIES:Econometrics & Methods
 END:VEVENT
 BEGIN:VEVENT
+UID:727f338f89@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261208T170000Z
+DTEND:20261208T181500Z
+SUMMARY:Atlanta Fed Seminars: Ariel Burstein – Economics Seminar
+DESCRIPTION:Atlanta Fed Research Seminars (Economics & Finance) (Macro & 
+ Monetary)\nSpeaker: Ariel Burstein\, University of California-Los Angeles
+ \nTitle: Economics Seminar\nAccess: Email organizers\nHow to join: Regist
+ er by email to Research Division Seminars at least 48 hours ahead.\nRegis
+ ter / join: https://www.atlantafed.org/en/news-and-events/events/research
+ -seminars\nSeries page: https://www.atlantafed.org/en/news-and-events/eve
+ nts/research-seminars
+LOCATION:Online
+URL:https://www.atlantafed.org/en/news-and-events/events/research-seminar
+ s
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:d2ee8b8b3e@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261209T010000Z
+DTEND:20261209T023000Z
+SUMMARY:CBADE Political Economy: Andrew Kosenko – Charitable Giving in 
+ Wartime: Evidence from Ukraine's War Fundraising
+DESCRIPTION:CBADE Political Economy Seminars (HKBU with CEIBS\, NTU\, NUS
+ \, Academia Sinica) (Public & Political Economy)\nSpeaker: Andrew Kosenko
+ \, Marist University\nTitle: Charitable Giving in Wartime: Evidence from 
+ Ukraine's War Fundraising\nAccess: Join directly\nHow to join: Join the s
+ tanding Zoom meeting https://hkbu.zoom.us/j/293341034 posted on the semin
+ ar page.\nRegister / join: https://hkbu.zoom.us/j/293341034\nSeries page:
+  https://cbade.hkbu.edu.hk/events/seminars/political-economy-seminars/
+LOCATION:Online
+URL:https://hkbu.zoom.us/j/293341034
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
 UID:4d115a30d7@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261209T140000Z
@@ -2212,6 +2746,42 @@ LOCATION:Online
 URL:https://cepr-org.zoom.us/meeting/register/tZclcuqhqjkiHdZi-Xhs-3aMam4
  YEIQP_oJ8
 CATEGORIES:IO & Digital
+END:VEVENT
+BEGIN:VEVENT
+UID:c34e0f13c4@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261209T160000Z
+DTEND:20261209T170000Z
+SUMMARY:AREUEA Virtual Seminar: Amine Ouazad – Adaptation Using Financi
+ al Markets
+DESCRIPTION:AREUEA Virtual Seminar Series (Urban & Regional)\nSpeaker: Am
+ ine Ouazad\, HEC Montréal\nTitle: Adaptation Using Financial Markets\nAc
+ cess: Register first\nHow to join: Register for each talk via the Zoom we
+ binar link on the series page\; subscribe to the mailing list for invitat
+ ions.\nRegister / join: https://us06web.zoom.us/webinar/register/WN_Re5rZ
+ GxwSyax14vo4iqjKA\nSeries page: https://www.areuea.org/virtual-seminar-se
+ ries
+LOCATION:Online
+URL:https://us06web.zoom.us/webinar/register/WN_Re5rZGxwSyax14vo4iqjKA
+CATEGORIES:Urban & Regional
+END:VEVENT
+BEGIN:VEVENT
+UID:0320843026@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261209T170000Z
+DTEND:20261209T181500Z
+SUMMARY:Atlanta Fed Seminars: Tim Landvoigt – Finance Seminar
+DESCRIPTION:Atlanta Fed Research Seminars (Economics & Finance) (Macro & 
+ Monetary)\nSpeaker: Tim Landvoigt\, Wharton School\, University of Pennsy
+ lvania\nTitle: Finance Seminar\nAccess: Email organizers\nHow to join: Re
+ gister by email to Research Division Seminars at least 48 hours ahead.\nR
+ egister / join: https://www.atlantafed.org/en/news-and-events/events/rese
+ arch-seminars\nSeries page: https://www.atlantafed.org/en/news-and-events
+ /events/research-seminars
+LOCATION:Online
+URL:https://www.atlantafed.org/en/news-and-events/events/research-seminar
+ s
+CATEGORIES:Macro & Monetary
 END:VEVENT
 BEGIN:VEVENT
 UID:3f90e1596a@seminars.econgoat.gg
@@ -2247,6 +2817,41 @@ DESCRIPTION:LSE Public Events (LSE Live) (General)\nSpeaker: Jennifer Dol
 LOCATION:Online
 URL:https://www.lse.ac.uk/events/science-second-chances
 CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:982b7bc9d4@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261210T111500Z
+DTEND:20261210T121500Z
+SUMMARY:DNB Seminars: Urszula Szczerbowicz
+DESCRIPTION:De Nederlandsche Bank Research Seminars (Macro & Monetary)\nS
+ peaker: Urszula Szczerbowicz\, SKEMA\nAccess: Email organizers\nHow to jo
+ in: Email from your affiliated (institutional) email address to receive a
+ ccess (addresses on the series page)\nRegister / join: https://www.dnb.nl
+ /en/research/research-seminars\nSeries page: https://www.dnb.nl/en/resear
+ ch/research-seminars
+LOCATION:Online
+URL:https://www.dnb.nl/en/research/research-seminars
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b976c4ff@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261210T120000Z
+DTEND:20261210T130000Z
+SUMMARY:ESCoE Webinars: Katherine Kent – Beyond GDP: New insights from 
+ the UK inclusive income and wealth accounts
+DESCRIPTION:ESCoE Webinar Series (Econometrics & Methods)\nSpeaker: Kathe
+ rine Kent\, Office for National Statistics\nTitle: Beyond GDP: New insigh
+ ts from the UK inclusive income and wealth accounts\nAccess: Register fir
+ st\nHow to join: Register via the Teams event link on each webinar page\n
+ Register / join: https://www.escoe.ac.uk/events/beyond-gdp-new-insights-f
+ rom-the-uk-inclusive-income-and-wealth-accounts/\nSeries page: https://ww
+ w.escoe.ac.uk/events/
+LOCATION:Online
+URL:https://www.escoe.ac.uk/events/beyond-gdp-new-insights-from-the-uk-in
+ clusive-income-and-wealth-accounts/
+CATEGORIES:Econometrics & Methods
 END:VEVENT
 BEGIN:VEVENT
 UID:99a2c88864@seminars.econgoat.gg
@@ -2331,6 +2936,25 @@ URL:https://stanford.zoom.us/webinar/register/WN_PniJxNqbSbKgjFTdWFsm1w#/
 CATEGORIES:Labor & Migration
 END:VEVENT
 BEGIN:VEVENT
+UID:13faae33d9@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261210T170000Z
+DTEND:20261210T181500Z
+SUMMARY:Atlanta Fed Seminars: Anmol Bhandari – Joint Finance & Economic
+ s Seminar
+DESCRIPTION:Atlanta Fed Research Seminars (Economics & Finance) (Macro & 
+ Monetary)\nSpeaker: Anmol Bhandari\, University of Minnesota\nTitle: Join
+ t Finance & Economics Seminar\nAccess: Email organizers\nHow to join: Reg
+ ister by email to Research Division Seminars at least 48 hours ahead.\nRe
+ gister / join: https://www.atlantafed.org/en/news-and-events/events/resea
+ rch-seminars\nSeries page: https://www.atlantafed.org/en/news-and-events/
+ events/research-seminars
+LOCATION:Online
+URL:https://www.atlantafed.org/en/news-and-events/events/research-seminar
+ s
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:a22a601e09@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261210T180000Z
@@ -2379,6 +3003,41 @@ LOCATION:Online
 URL:https://docs.google.com/forms/d/1AsA8Il5ALjkogKrHJ2eGwmXprF8sNimHolCz
  WdGdoSY/viewform
 CATEGORIES:Econometrics & Methods
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ed3b7570@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261211T013000Z
+DTEND:20261211T030000Z
+SUMMARY:Virtual AMBER: Ye (Wendy) Jin – Retail Investing under Complexi
+ ty: When Price Changes Become Binary Signals
+DESCRIPTION:Virtual Asian Meeting of Behavioral and Experimental Research
+  (Virtual AMBER) (Behavioral & Experimental)\nSpeaker: Ye (Wendy) Jin\, T
+ he University of Osaka\nTitle: Retail Investing under Complexity: When Pr
+ ice Changes Become Binary Signals\nAccess: Register first\nHow to join: R
+ egister in advance via the per-talk Zoom registration link sent in announ
+ cements\; email sec-virtual-amber@iser.osaka-u.ac.jp to get on the list.\
+ nRegister / join: https://www.iser.osaka-u.ac.jp/VAMBER/\nSeries page: ht
+ tps://www.iser.osaka-u.ac.jp/VAMBER/
+LOCATION:Online
+URL:https://www.iser.osaka-u.ac.jp/VAMBER/
+CATEGORIES:Behavioral & Experimental
+END:VEVENT
+BEGIN:VEVENT
+UID:961c8ea8db@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261211T110000Z
+DTEND:20261211T120000Z
+SUMMARY:Tax Observatory Lunch Seminar: Antonella Bancalari
+DESCRIPTION:EU Tax Observatory Lunch Seminar (Public & Political Economy)
+ \nSpeaker: Antonella Bancalari\, Institute for Fiscal Studies\nAccess: Re
+ gister first\nHow to join: Register once via the Zoom registration link o
+ n the seminar page\; also sign up for the mailing list.\nRegister / join:
+  https://taxobservatory.world/?p=18469\nSeries page: https://taxobservato
+ ry.world/?p=18469
+LOCATION:Online
+URL:https://taxobservatory.world/?p=18469
+CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
 UID:e9a9f1d016@seminars.econgoat.gg
@@ -2435,6 +3094,27 @@ URL:https://forms.gle/DGuEHRU3n1DX1f6V7
 CATEGORIES:Environment & Energy
 END:VEVENT
 BEGIN:VEVENT
+UID:60f0e49c36@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261214T130000Z
+DTEND:20261214T143000Z
+SUMMARY:Banque de France Seminars: Paul Berthou – Chinese exports redir
+ ection during trade wars: Micro vs. Macro channels
+DESCRIPTION:Banque de France Research Seminars (incl. BdF/TSE webinars) (
+ Macro & Monetary)\nSpeaker: Paul Berthou\, Banque de France\nTitle: Chine
+ se exports redirection during trade wars: Micro vs. Macro channels\nAcces
+ s: Register first\nHow to join: Fill in the Banque de France research-web
+ inar registration form (closes 24 h before) to get an invitation to the w
+ eb platform.\nRegister / join: https://www.banque-france.fr/en/events/chi
+ nese-exports-redirection-during-trade-wars-micro-vs-macro-channels\nSerie
+ s page: https://www.banque-france.fr/en/publications-and-research/economi
+ c-research/conferences-and-research-seminars
+LOCATION:Online
+URL:https://www.banque-france.fr/en/events/chinese-exports-redirection-du
+ ring-trade-wars-micro-vs-macro-channels
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:7e921d1796@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261214T150000Z
@@ -2466,6 +3146,42 @@ DESCRIPTION:Virtual Market Design Seminar (Theory & Market Design)\nSpeak
 LOCATION:Online
 URL:http://virtual-md-seminar.com/registration.html
 CATEGORIES:Theory & Market Design
+END:VEVENT
+BEGIN:VEVENT
+UID:a021fcaa09@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261214T161500Z
+DTEND:20261214T173000Z
+SUMMARY:Decarbonization Seminar: Christian Kaps
+DESCRIPTION:MISES-ZEW Decarbonization Seminar (Environment & Energy)\nSpe
+ aker: Christian Kaps\, Harvard Business School\nAccess: Mailing list\nHow
+  to join: Sign up for the seminar mailing list\; each talk announcement c
+ arries the link to register for virtual attendance.\nRegister / join: htt
+ ps://www.uni-mannheim.de/en/mises/research/decarbonization-seminar/christ
+ ian-kaps/\nSeries page: https://www.uni-mannheim.de/en/mises/research/dec
+ arbonization-seminar/
+LOCATION:Online
+URL:https://www.uni-mannheim.de/en/mises/research/decarbonization-seminar
+ /christian-kaps/
+CATEGORIES:Environment & Energy
+END:VEVENT
+BEGIN:VEVENT
+UID:191458d457@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261214T170000Z
+DTEND:20261214T183000Z
+SUMMARY:SGE Virtual Seminar: Katharine Sadowski\, Jessica Brown – The E
+ conomics of Childcare: Markets\, Policy\, and Public Investment
+DESCRIPTION:SGE Virtual Seminar Series (Public & Political Economy)\nSpea
+ ker: Katharine Sadowski\, Jessica Brown\, Stanford University\; Universit
+ y of South Carolina\nTitle: The Economics of Childcare: Markets\, Policy\
+ , and Public Investment\nAccess: Register first\nHow to join: Pre-registe
+ r via the Zoom link on each seminar post\; join details are emailed\nRegi
+ ster / join: https://us02web.zoom.us/meeting/register/tKpo2IydS-6UjCdxYkV
+ ntQ\nSeries page: https://www.sge-econ.org/
+LOCATION:Online
+URL:https://us02web.zoom.us/meeting/register/tKpo2IydS-6UjCdxYkVntQ
+CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
 UID:439e7aa310@seminars.econgoat.gg
@@ -2517,6 +3233,40 @@ URL:https://leibniz-ios.de/wissen-vermitteln/veranstaltungen/seminarreihe
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:2dd2b46290@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261215T153000Z
+DTEND:20261215T163000Z
+SUMMARY:TSEE: Anna Papp
+DESCRIPTION:Transatlantic Seminar on Environmental and Energy Economics (
+ TSEE) (Environment & Energy)\nSpeaker: Anna Papp\, University of Californ
+ ia\, Santa Barbara\nAccess: Email organizers\nHow to join: Email stating 
+ your status and affiliation\; the Zoom link is sent weekly (addresses on 
+ the series page)\nRegister / join: https://sites.google.com/view/tsee-onl
+ ine\nSeries page: https://sites.google.com/view/tsee-online
+LOCATION:Online
+URL:https://sites.google.com/view/tsee-online
+CATEGORIES:Environment & Energy
+END:VEVENT
+BEGIN:VEVENT
+UID:79a64e3de2@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:PEN Webinar: Inbal Dekel – Follow\, ignore\, or counteract: Lea
+ rning\, identity\, and polarization (time TBA)
+DESCRIPTION:Political Economy Network (PEN) Webinar Series (Public & Poli
+ tical Economy)\nSpeaker: Inbal Dekel\, Hebrew University of Jerusalem\nTi
+ tle: Follow\, ignore\, or counteract: Learning\, identity\, and polarizat
+ ion\nAccess: Email organizers\nHow to join: Email either organizer to att
+ end\; contacts are on their personal sites.\nRegister / join: https://sit
+ es.google.com/view/ktheocharopoulos/workshops\nSeries page: https://sites
+ .google.com/view/ktheocharopoulos/workshops
+LOCATION:Online
+URL:https://sites.google.com/view/ktheocharopoulos/workshops
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
 UID:4a735e406e@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261216T160000Z
@@ -2533,6 +3283,22 @@ DESCRIPTION:International Macro History Online Seminar (Economic History)
 LOCATION:Online
 URL:https://cepr-org.zoom.us/webinar/register/WN_DlhUutp0S7GhwrWsY0NVPQ
 CATEGORIES:Economic History
+END:VEVENT
+BEGIN:VEVENT
+UID:d4986ae37f@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261217T111500Z
+DTEND:20261217T121500Z
+SUMMARY:DNB Seminars: Geert Mesters
+DESCRIPTION:De Nederlandsche Bank Research Seminars (Macro & Monetary)\nS
+ peaker: Geert Mesters\, Federal Reserve Bank of New York\nAccess: Email o
+ rganizers\nHow to join: Email from your affiliated (institutional) email 
+ address to receive access (addresses on the series page)\nRegister / join
+ : https://www.dnb.nl/en/research/research-seminars\nSeries page: https://
+ www.dnb.nl/en/research/research-seminars
+LOCATION:Online
+URL:https://www.dnb.nl/en/research/research-seminars
+CATEGORIES:Macro & Monetary
 END:VEVENT
 BEGIN:VEVENT
 UID:555f392629@seminars.econgoat.gg
@@ -2571,6 +3337,41 @@ URL:https://viceseminar.substack.com
 CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
+UID:c1a1689510@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261217T190000Z
+DTEND:20261217T200000Z
+SUMMARY:IRP Webinars: Leigh D'Amico\, Briana A. López\, Ji-Young Choi 
+ – Understanding the Impact of Early Childhood School Readiness Programs
+DESCRIPTION:IRP Webinar Series (Public & Political Economy)\nSpeaker: Lei
+ gh D'Amico\, Briana A. López\, Ji-Young Choi\, University of South Carol
+ ina\; E3 Alliance\; Ohio State University\nTitle: Understanding the Impac
+ t of Early Childhood School Readiness Programs\nAccess: Register first\nH
+ ow to join: Register via the Zoom webinar link on the IRP event page\nReg
+ ister / join: https://uwmadison.zoom.us/webinar/register/WN_WiFoaKH_SUeMM
+ TbkL1vyow\nSeries page: https://www.irp.wisc.edu/events/
+LOCATION:Online
+URL:https://uwmadison.zoom.us/webinar/register/WN_WiFoaKH_SUeMMTbkL1vyow
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
+UID:898b09cae0@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20261218T140000Z
+DTEND:20261218T153000Z
+SUMMARY:HEPARD: Anupam B. Jena
+DESCRIPTION:HEPARD Online Research Seminar Series (Health)\nSpeaker: Anup
+ am B. Jena\nAccess: Register first\nHow to join: Register once on the HEP
+ ARD page\; the Zoom link is emailed to registrants.\nRegister / join: htt
+ ps://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-hepard-on
+ line-research-seminar-series/\nSeries page: https://goek.wiwi.uni-due.de/
+ forschung/hepard/
+LOCATION:Online
+URL:https://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-he
+ pard-online-research-seminar-series/
+CATEGORIES:Health
+END:VEVENT
+BEGIN:VEVENT
 UID:144e2fd758@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20261218T190000Z
@@ -2601,6 +3402,38 @@ DESCRIPTION:Applied Economics Workshop (Applied Micro)\nSpeaker: Brigham
 LOCATION:Online
 URL:https://u-tokyo-ac-jp.zoom.us/meeting/register/rOMy1cLfSpu2Sc01lrrhGw
 CATEGORIES:Applied Micro
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5d7cd562@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270105T140000Z
+DTEND:20270105T150000Z
+SUMMARY:DEB Seminar: Niklas Kühl – Who Presses the Button? Human Overs
+ ight of AI Between Claim and Practice
+DESCRIPTION:Decision Experience and Behavior (DEB) Seminar (Behavioral & 
+ Experimental)\nSpeaker: Niklas Kühl\nTitle: Who Presses the Button? Huma
+ n Oversight of AI Between Claim and Practice\nAccess: Join directly\nHow 
+ to join: Direct Zoom link for each talk is posted on the home page\; opti
+ onal reminder sign-up form.\nRegister / join: https://us02web.zoom.us/j/8
+ 4893121648\nSeries page: https://sites.google.com/view/debseminar/home
+LOCATION:Online
+URL:https://us02web.zoom.us/j/84893121648
+CATEGORIES:Behavioral & Experimental
+END:VEVENT
+BEGIN:VEVENT
+UID:cc8aee8e68@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270107T130000Z
+DTEND:20270107T140000Z
+SUMMARY:GLO Virtual Seminar: Joan Costa-Font
+DESCRIPTION:GLO Virtual Seminar (Labor & Migration)\nSpeaker: Joan Costa-
+ Font\, London School of Economics\nAccess: Email organizers\nHow to join:
+  Open to GLO Fellows and Affiliates (anyone may apply to be an Affiliate)
+  or by invitation\; contact GLO\nRegister / join: https://glabor.org/glo-
+ virtual-seminar/\nSeries page: https://glabor.org/glo-virtual-seminar/
+LOCATION:Online
+URL:https://glabor.org/glo-virtual-seminar/
+CATEGORIES:Labor & Migration
 END:VEVENT
 BEGIN:VEVENT
 UID:f45e306b31@seminars.econgoat.gg
@@ -2671,6 +3504,23 @@ URL:https://us06web.zoom.us/meeting/register/a3Vr8xBdQBOwKzwTXHP2Ww
 CATEGORIES:Econometrics & Methods
 END:VEVENT
 BEGIN:VEVENT
+UID:5555c7658a@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270115T140000Z
+DTEND:20270115T153000Z
+SUMMARY:HEPARD: Davide Dragone
+DESCRIPTION:HEPARD Online Research Seminar Series (Health)\nSpeaker: Davi
+ de Dragone\nAccess: Register first\nHow to join: Register once on the HEP
+ ARD page\; the Zoom link is emailed to registrants.\nRegister / join: htt
+ ps://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-hepard-on
+ line-research-seminar-series/\nSeries page: https://goek.wiwi.uni-due.de/
+ forschung/hepard/
+LOCATION:Online
+URL:https://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-he
+ pard-online-research-seminar-series/
+CATEGORIES:Health
+END:VEVENT
+BEGIN:VEVENT
 UID:61d9948e87@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270118T183000Z
@@ -2705,6 +3555,47 @@ URL:https://leibniz-ios.de/wissen-vermitteln/veranstaltungen/seminarreihe
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:a8c5003262@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:PEN Webinar: Selahattin Tolga Er – Constitutional compliance ex
+ perience and demand for executive overreach (time TBA)
+DESCRIPTION:Political Economy Network (PEN) Webinar Series (Public & Poli
+ tical Economy)\nSpeaker: Selahattin Tolga Er\, University of Hamburg\nTit
+ le: Constitutional compliance experience and demand for executive overrea
+ ch\nAccess: Email organizers\nHow to join: Email either organizer to atte
+ nd\; contacts are on their personal sites.\nRegister / join: https://site
+ s.google.com/view/ktheocharopoulos/workshops\nSeries page: https://sites.
+ google.com/view/ktheocharopoulos/workshops
+LOCATION:Online
+URL:https://sites.google.com/view/ktheocharopoulos/workshops
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
+UID:7650b9ae54@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270120T143000Z
+DTEND:20270120T160000Z
+SUMMARY:SUERF e-lectures: Darrell Duffie – Tokenized finance and the pe
+ rimeter of central banking: How is tokenization reshaping financial marke
+ ts and the future role of central banks?
+DESCRIPTION:SUERF BAFFI Bocconi e-lectures (Macro & Monetary)\nSpeaker: D
+ arrell Duffie\, Stanford University\nTitle: Tokenized finance and the per
+ imeter of central banking: How is tokenization reshaping financial market
+ s and the future role of central banks?\nAccess: Register first\nHow to j
+ oin: Register on each event's SUERF registration page (non-member option 
+ available).\nRegister / join: https://www.suerf.org/events/tokenized-fina
+ nce-and-the-perimeter-of-central-banking-how-is-tokenization-reshaping-fi
+ nancial-markets-and-the-future-role-of-central-banks/registration\nSeries
+  page: https://www.suerf.org/events/
+LOCATION:Online
+URL:https://www.suerf.org/events/tokenized-finance-and-the-perimeter-of-c
+ entral-banking-how-is-tokenization-reshaping-financial-markets-and-the-fu
+ ture-role-of-central-banks/registration
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:a3edbdf2bf@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270121T160000Z
@@ -2718,6 +3609,23 @@ DESCRIPTION:Virtual Time Series Seminar (Econometrics & Methods)\nSpeaker
 LOCATION:Online
 URL:https://us06web.zoom.us/meeting/register/a3Vr8xBdQBOwKzwTXHP2Ww
 CATEGORIES:Econometrics & Methods
+END:VEVENT
+BEGIN:VEVENT
+UID:4dec140ad4@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270122T073000Z
+DTEND:20270122T090000Z
+SUMMARY:Virtual AMBER: Peiran Jiao
+DESCRIPTION:Virtual Asian Meeting of Behavioral and Experimental Research
+  (Virtual AMBER) (Behavioral & Experimental)\nSpeaker: Peiran Jiao\, Maas
+ tricht University\nAccess: Register first\nHow to join: Register in advan
+ ce via the per-talk Zoom registration link sent in announcements\; email 
+ sec-virtual-amber@iser.osaka-u.ac.jp to get on the list.\nRegister / join
+ : https://www.iser.osaka-u.ac.jp/VAMBER/\nSeries page: https://www.iser.o
+ saka-u.ac.jp/VAMBER/
+LOCATION:Online
+URL:https://www.iser.osaka-u.ac.jp/VAMBER/
+CATEGORIES:Behavioral & Experimental
 END:VEVENT
 BEGIN:VEVENT
 UID:1b18626975@seminars.econgoat.gg
@@ -2886,6 +3794,61 @@ URL:https://leibniz-ios.de/wissen-vermitteln/veranstaltungen/seminarreihe
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:ff865f8646@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270202T140000Z
+DTEND:20270202T150000Z
+SUMMARY:DEB Seminar: Yonatan Loewenstein
+DESCRIPTION:Decision Experience and Behavior (DEB) Seminar (Behavioral & 
+ Experimental)\nSpeaker: Yonatan Loewenstein\nAccess: Join directly\nHow t
+ o join: Direct Zoom link for each talk is posted on the home page\; optio
+ nal reminder sign-up form.\nRegister / join: https://sites.google.com/vie
+ w/debseminar/home\nSeries page: https://sites.google.com/view/debseminar/
+ home
+LOCATION:Online
+URL:https://sites.google.com/view/debseminar/home
+CATEGORIES:Behavioral & Experimental
+END:VEVENT
+BEGIN:VEVENT
+UID:6d75cdf9e7@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Banque de France Seminars: Nathalie Rickard – Inflation Composi
+ tion and Monetary Stabilization (time TBA)
+DESCRIPTION:Banque de France Research Seminars (incl. BdF/TSE webinars) (
+ Macro & Monetary)\nSpeaker: Nathalie Rickard\, Bank of England\nTitle: In
+ flation Composition and Monetary Stabilization\nAccess: Register first\nH
+ ow to join: Fill in the Banque de France research-webinar registration fo
+ rm (closes 24 h before) to get an invitation to the web platform.\nRegist
+ er / join: https://www.banque-france.fr/en/events/inflation-composition-a
+ nd-monetary-stabilization\nSeries page: https://www.banque-france.fr/en/p
+ ublications-and-research/economic-research/conferences-and-research-semin
+ ars
+LOCATION:Online
+URL:https://www.banque-france.fr/en/events/inflation-composition-and-mone
+ tary-stabilization
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:892e594a6d@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:PEN Webinar: Jaakko Meriläinen – The diffusion of national ide
+ ntity: Evidence from the Fennoman movement (time TBA)
+DESCRIPTION:Political Economy Network (PEN) Webinar Series (Public & Poli
+ tical Economy)\nSpeaker: Jaakko Meriläinen\, Stockholm School of Economi
+ cs\nTitle: The diffusion of national identity: Evidence from the Fennoman
+  movement\nAccess: Email organizers\nHow to join: Email either organizer 
+ to attend\; contacts are on their personal sites.\nRegister / join: https
+ ://sites.google.com/view/ktheocharopoulos/workshops\nSeries page: https:/
+ /sites.google.com/view/ktheocharopoulos/workshops
+LOCATION:Online
+URL:https://sites.google.com/view/ktheocharopoulos/workshops
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
 UID:547e33900d@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270203T110000Z
@@ -3003,6 +3966,23 @@ URL:https://www.lse.ac.uk/events/political-economy-2
 CATEGORIES:General
 END:VEVENT
 BEGIN:VEVENT
+UID:e38d2a1f8b@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:PEN Webinar: Omer Edhan – Who buys the robots' output (time TBA
+ )
+DESCRIPTION:Political Economy Network (PEN) Webinar Series (Public & Poli
+ tical Economy)\nSpeaker: Omer Edhan\, The University of Manchester\nTitle
+ : Who buys the robots' output\nAccess: Email organizers\nHow to join: Ema
+ il either organizer to attend\; contacts are on their personal sites.\nRe
+ gister / join: https://sites.google.com/view/ktheocharopoulos/workshops\n
+ Series page: https://sites.google.com/view/ktheocharopoulos/workshops
+LOCATION:Online
+URL:https://sites.google.com/view/ktheocharopoulos/workshops
+CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
 UID:438dc22b3f@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270210T110000Z
@@ -3100,6 +4080,21 @@ URL:https://leibniz-ios.de/wissen-vermitteln/veranstaltungen/seminarreihe
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:3ae78eeade@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270216T130000Z
+DTEND:20270216T140000Z
+SUMMARY:EBRD OCE Seminar: Isabela Manelici
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Isabela Manelici\, LSE\nAccess: Email organizers\nHow to 
+ join: Email the organizers for the online stream (addresses on the series
+  page)\nRegister / join: https://sites.google.com/view/oceseminars/home-p
+ age\nSeries page: https://sites.google.com/view/oceseminars/home-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
 UID:4b81fb7f15@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270216T183000Z
@@ -3114,6 +4109,24 @@ DESCRIPTION:LSE Public Events (LSE Live) (General)\nSpeaker: Ann Pettifor
 LOCATION:Online
 URL:https://www.lse.ac.uk/events/wall-street-people-planet
 CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea34ce75e@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:PEN Webinar: Dariia Mykhailyshyna – Narrative frames and host s
+ upport for refugees (time TBA)
+DESCRIPTION:Political Economy Network (PEN) Webinar Series (Public & Poli
+ tical Economy)\nSpeaker: Dariia Mykhailyshyna\, Kyiv School of Economics\
+ nTitle: Narrative frames and host support for refugees\nAccess: Email org
+ anizers\nHow to join: Email either organizer to attend\; contacts are on 
+ their personal sites.\nRegister / join: https://sites.google.com/view/kth
+ eocharopoulos/workshops\nSeries page: https://sites.google.com/view/ktheo
+ charopoulos/workshops
+LOCATION:Online
+URL:https://sites.google.com/view/ktheocharopoulos/workshops
+CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
 UID:b0252b1c74@seminars.econgoat.gg
@@ -3144,6 +4157,40 @@ DESCRIPTION:Virtual Time Series Seminar (Econometrics & Methods)\nSpeaker
 LOCATION:Online
 URL:https://us06web.zoom.us/meeting/register/a3Vr8xBdQBOwKzwTXHP2Ww
 CATEGORIES:Econometrics & Methods
+END:VEVENT
+BEGIN:VEVENT
+UID:fe785fd676@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270219T073000Z
+DTEND:20270219T090000Z
+SUMMARY:Virtual AMBER: Nikos Nikiforakis
+DESCRIPTION:Virtual Asian Meeting of Behavioral and Experimental Research
+  (Virtual AMBER) (Behavioral & Experimental)\nSpeaker: Nikos Nikiforakis\
+ , New York University Abu Dhabi\nAccess: Register first\nHow to join: Reg
+ ister in advance via the per-talk Zoom registration link sent in announce
+ ments\; email sec-virtual-amber@iser.osaka-u.ac.jp to get on the list.\nR
+ egister / join: https://www.iser.osaka-u.ac.jp/VAMBER/\nSeries page: http
+ s://www.iser.osaka-u.ac.jp/VAMBER/
+LOCATION:Online
+URL:https://www.iser.osaka-u.ac.jp/VAMBER/
+CATEGORIES:Behavioral & Experimental
+END:VEVENT
+BEGIN:VEVENT
+UID:969dbf4e60@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270219T140000Z
+DTEND:20270219T153000Z
+SUMMARY:HEPARD: Manasvini Singh
+DESCRIPTION:HEPARD Online Research Seminar Series (Health)\nSpeaker: Mana
+ svini Singh\nAccess: Register first\nHow to join: Register once on the HE
+ PARD page\; the Zoom link is emailed to registrants.\nRegister / join: ht
+ tps://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-hepard-o
+ nline-research-seminar-series/\nSeries page: https://goek.wiwi.uni-due.de
+ /forschung/hepard/
+LOCATION:Online
+URL:https://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-he
+ pard-online-research-seminar-series/
+CATEGORIES:Health
 END:VEVENT
 BEGIN:VEVENT
 UID:61b6ae7dfb@seminars.econgoat.gg
@@ -3180,6 +4227,26 @@ DESCRIPTION:LSE Public Events (LSE Live) (General)\nSpeaker: Luis Garican
 LOCATION:Online
 URL:https://www.lse.ac.uk/events/new-technology
 CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:e5796a607f@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270223T120000Z
+DTEND:20270223T130000Z
+SUMMARY:LSE Asia Econ History: Hansong Li – The wealth of a city: a Sha
+ nghai family over three centuries
+DESCRIPTION:LSE Asia Economic History Seminars (Economic History)\nSpeake
+ r: Hansong Li\, American University & Harvard\nTitle: The wealth of a cit
+ y: a Shanghai family over three centuries\nAccess: See event page\nHow to
+  join: Zoom link posted on the seminar page for online or hybrid sessions
+ \; check before each talk.\nRegister / join: https://www.lse.ac.uk/econom
+ ic-history/seminars/2026-27/asia-economic-history-seminars\nSeries page: 
+ https://www.lse.ac.uk/economic-history/seminars/2026-27/asia-economic-his
+ tory-seminars
+LOCATION:Online
+URL:https://www.lse.ac.uk/economic-history/seminars/2026-27/asia-economic
+ -history-seminars
+CATEGORIES:Economic History
 END:VEVENT
 BEGIN:VEVENT
 UID:02550d5280@seminars.econgoat.gg
@@ -3273,6 +4340,39 @@ URL:https://u-tokyo-ac-jp.zoom.us/meeting/register/QkWOLPMaRiWVZ6K4Ye4w1Q
 CATEGORIES:Applied Micro
 END:VEVENT
 BEGIN:VEVENT
+UID:e2359607cd@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270302T120000Z
+DTEND:20270302T130000Z
+SUMMARY:LSE Asia Econ History: Jan Lucassen\, Rombert Stapel
+DESCRIPTION:LSE Asia Economic History Seminars (Economic History)\nSpeake
+ r: Jan Lucassen\, Rombert Stapel\, International Institute of Social Hist
+ ory\, Amsterdam\nAccess: See event page\nHow to join: Zoom link posted on
+  the seminar page for online or hybrid sessions\; check before each talk.
+ \nRegister / join: https://www.lse.ac.uk/economic-history/seminars/2026-2
+ 7/asia-economic-history-seminars\nSeries page: https://www.lse.ac.uk/econ
+ omic-history/seminars/2026-27/asia-economic-history-seminars
+LOCATION:Online
+URL:https://www.lse.ac.uk/economic-history/seminars/2026-27/asia-economic
+ -history-seminars
+CATEGORIES:Economic History
+END:VEVENT
+BEGIN:VEVENT
+UID:b18cbb8ceb@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270303T130000Z
+DTEND:20270303T140000Z
+SUMMARY:EBRD OCE Seminar: Jose Maria Barrero
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Jose Maria Barrero\, ITAM\nAccess: Email organizers\nHow 
+ to join: Email the organizers for the online stream (addresses on the ser
+ ies page)\nRegister / join: https://sites.google.com/view/oceseminars/hom
+ e-page\nSeries page: https://sites.google.com/view/oceseminars/home-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
 UID:8ecbc90faa@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270304T110000Z
@@ -3338,6 +4438,37 @@ DESCRIPTION:LSE Public Events (LSE Live) (General)\nSpeaker: Susana Moura
 LOCATION:Online
 URL:https://www.lse.ac.uk/events/sustainable-development
 CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e2800de4@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270309T130000Z
+DTEND:20270309T140000Z
+SUMMARY:EBRD OCE Seminar: John Van Reenen
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: John Van Reenen\, LSE\nAccess: Email organizers\nHow to j
+ oin: Email the organizers for the online stream (addresses on the series 
+ page)\nRegister / join: https://sites.google.com/view/oceseminars/home-pa
+ ge\nSeries page: https://sites.google.com/view/oceseminars/home-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc9f5b26b@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270310T080000Z
+DTEND:20270310T093000Z
+SUMMARY:CBADE Political Economy: Shuyi Yu
+DESCRIPTION:CBADE Political Economy Seminars (HKBU with CEIBS\, NTU\, NUS
+ \, Academia Sinica) (Public & Political Economy)\nSpeaker: Shuyi Yu\, Uni
+ versity of Chicago\nAccess: Join directly\nHow to join: Join the standing
+  Zoom meeting https://hkbu.zoom.us/j/293341034 posted on the seminar page
+ .\nRegister / join: https://hkbu.zoom.us/j/293341034\nSeries page: https:
+ //cbade.hkbu.edu.hk/events/seminars/political-economy-seminars/
+LOCATION:Online
+URL:https://hkbu.zoom.us/j/293341034
+CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
 UID:24014f57be@seminars.econgoat.gg
@@ -3452,6 +4583,41 @@ URL:https://us06web.zoom.us/meeting/register/a3Vr8xBdQBOwKzwTXHP2Ww
 CATEGORIES:Econometrics & Methods
 END:VEVENT
 BEGIN:VEVENT
+UID:79a7b62d26@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270319T140000Z
+DTEND:20270319T153000Z
+SUMMARY:HEPARD: Sonia Bhalotra
+DESCRIPTION:HEPARD Online Research Seminar Series (Health)\nSpeaker: Soni
+ a Bhalotra\nAccess: Register first\nHow to join: Register once on the HEP
+ ARD page\; the Zoom link is emailed to registrants.\nRegister / join: htt
+ ps://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-hepard-on
+ line-research-seminar-series/\nSeries page: https://goek.wiwi.uni-due.de/
+ forschung/hepard/
+LOCATION:Online
+URL:https://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-he
+ pard-online-research-seminar-series/
+CATEGORIES:Health
+END:VEVENT
+BEGIN:VEVENT
+UID:96233ef7c0@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270323T160000Z
+DTEND:20270323T171500Z
+SUMMARY:Atlanta Fed Seminars: Francesco Bianchi – Economics Seminar
+DESCRIPTION:Atlanta Fed Research Seminars (Economics & Finance) (Macro & 
+ Monetary)\nSpeaker: Francesco Bianchi\, Johns Hopkins University\nTitle: 
+ Economics Seminar\nAccess: Email organizers\nHow to join: Register by ema
+ il to Research Division Seminars at least 48 hours ahead.\nRegister / joi
+ n: https://www.atlantafed.org/en/news-and-events/events/research-seminars
+ \nSeries page: https://www.atlantafed.org/en/news-and-events/events/resea
+ rch-seminars
+LOCATION:Online
+URL:https://www.atlantafed.org/en/news-and-events/events/research-seminar
+ s
+CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
 UID:14e287193d@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20270325
@@ -3466,6 +4632,22 @@ DESCRIPTION:Brookings Papers on Economic Activity Conference (Macro & Mon
 LOCATION:Online
 URL:https://www.brookings.edu/events/bpea-fall-2026-conference/
 CATEGORIES:Macro & Monetary
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef3901d95@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270401T120000Z
+DTEND:20270401T130000Z
+SUMMARY:GLO Virtual Seminar: Aaron Sojourner
+DESCRIPTION:GLO Virtual Seminar (Labor & Migration)\nSpeaker: Aaron Sojou
+ rner\, W.E. Upjohn Institute for Employment Research\nAccess: Email organ
+ izers\nHow to join: Open to GLO Fellows and Affiliates (anyone may apply 
+ to be an Affiliate) or by invitation\; contact GLO\nRegister / join: http
+ s://glabor.org/glo-virtual-seminar/\nSeries page: https://glabor.org/glo-
+ virtual-seminar/
+LOCATION:Online
+URL:https://glabor.org/glo-virtual-seminar/
+CATEGORIES:Labor & Migration
 END:VEVENT
 BEGIN:VEVENT
 UID:be5b9d6182@seminars.econgoat.gg
@@ -3519,6 +4701,22 @@ URL:https://forms.gle/YgnFS74hkBegJRDa8
 CATEGORIES:Public & Political Economy
 END:VEVENT
 BEGIN:VEVENT
+UID:4283e733d1@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270413T120000Z
+DTEND:20270413T130000Z
+SUMMARY:EBRD OCE Seminar: Paolo Pinotti
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Paolo Pinotti\, Bocconi University\nAccess: Email organiz
+ ers\nHow to join: Email the organizers for the online stream (addresses o
+ n the series page)\nRegister / join: https://sites.google.com/view/ocesem
+ inars/home-page\nSeries page: https://sites.google.com/view/oceseminars/h
+ ome-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
+END:VEVENT
+BEGIN:VEVENT
 UID:ed68ae8a2e@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270414T100000Z
@@ -3534,6 +4732,23 @@ URL:https://teams.microsoft.com/meet/32959579722338?p=5pC80F0ixs21KiN4CG
 CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
+UID:93bbf215fc@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270416T130000Z
+DTEND:20270416T143000Z
+SUMMARY:HEPARD: Mariacristina De Nardi
+DESCRIPTION:HEPARD Online Research Seminar Series (Health)\nSpeaker: Mari
+ acristina De Nardi\nAccess: Register first\nHow to join: Register once on
+  the HEPARD page\; the Zoom link is emailed to registrants.\nRegister / j
+ oin: https://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-h
+ epard-online-research-seminar-series/\nSeries page: https://goek.wiwi.uni
+ -due.de/forschung/hepard/
+LOCATION:Online
+URL:https://goek.wiwi.uni-due.de/forschung/hepard/registration-for-the-he
+ pard-online-research-seminar-series/
+CATEGORIES:Health
+END:VEVENT
+BEGIN:VEVENT
 UID:417cdb2c8f@seminars.econgoat.gg
 DTSTAMP:20261123T000000Z
 DTSTART:20270426T140000Z
@@ -3547,6 +4762,22 @@ DESCRIPTION:POLECONUK Webinar (Public & Political Economy)\nSpeaker: Char
 LOCATION:Online
 URL:https://forms.gle/YgnFS74hkBegJRDa8
 CATEGORIES:Public & Political Economy
+END:VEVENT
+BEGIN:VEVENT
+UID:f81dee0541@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270427T120000Z
+DTEND:20270427T130000Z
+SUMMARY:EBRD OCE Seminar: Sascha Becker
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Sascha Becker\, Warwick and Monash University\nAccess: Em
+ ail organizers\nHow to join: Email the organizers for the online stream (
+ addresses on the series page)\nRegister / join: https://sites.google.com/
+ view/oceseminars/home-page\nSeries page: https://sites.google.com/view/oc
+ eseminars/home-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
 UID:749e299ae6@seminars.econgoat.gg
@@ -3580,6 +4811,21 @@ LOCATION:Online
 URL:https://www.lse.ac.uk/events/horse-power-the-economic-development-of-
  pre-industrial-england
 CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef19915d8@seminars.econgoat.gg
+DTSTAMP:20261123T000000Z
+DTSTART:20270518T120000Z
+DTEND:20270518T130000Z
+SUMMARY:EBRD OCE Seminar: Sebastian Doerr
+DESCRIPTION:EBRD Office of the Chief Economist Research Seminars (Develop
+ ment)\nSpeaker: Sebastian Doerr\, BIS\nAccess: Email organizers\nHow to j
+ oin: Email the organizers for the online stream (addresses on the series 
+ page)\nRegister / join: https://sites.google.com/view/oceseminars/home-pa
+ ge\nSeries page: https://sites.google.com/view/oceseminars/home-page
+LOCATION:Online
+URL:https://sites.google.com/view/oceseminars/home-page
+CATEGORIES:Development
 END:VEVENT
 BEGIN:VEVENT
 UID:23531d7802@seminars.econgoat.gg
